@@ -15,19 +15,20 @@
       <guid>/about/</guid>
       <description>Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.
 Projects:
- NanoBlast demo github The Swap demo github accept-banano client github server github forked from accept-nano  </description>
+ NanoBlast demo github The Swap demo github accept-banano client github server github forked from accept-nano Floofyswap demo github  </description>
       <content>&lt;p&gt;Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.&lt;/p&gt;
 &lt;p&gt;Projects:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;NanoBlast &lt;a href=&#34;https://game.neutralgood.dev&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/nanoblast-webserver&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The Swap &lt;a href=&#34;https://theswap.vercel.com&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/swap&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;accept-banano client &lt;a href=&#34;https://github.com/tigwyk/accept-banano-client&#34;&gt;github&lt;/a&gt; server &lt;a href=&#34;https://github.com/tigwyk/accept-banano&#34;&gt;github&lt;/a&gt; forked from &lt;a href=&#34;https://accept-nano.com/&#34;&gt;accept-nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Floofyswap &lt;a href=&#34;https://floofyswap.finance&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/search?q=user%3Atigwyk+floofy+fork%3Aonly&amp;amp;type=Repositories&amp;amp;ref=advsearch&amp;amp;l=&amp;amp;l=&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
     
     <item>
-      <title>Test Post, Please Ignore</title>
+      <title>Test Post, Please Ignore (or don&#39;t)</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Sat, 24 Apr 2021 22:33:08 -0700</pubDate>
       
