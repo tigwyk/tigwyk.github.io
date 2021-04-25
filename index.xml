@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Blog - Tigwyk</title>
+    <link>/</link>
+    <description>Recent content on Code Blog - Tigwyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 22:33:08 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 24 Apr 2021 22:51:08 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.
+Projects:
+ NanoBlast demo github The Swap demo github accept-banano client github server github forked from accept-nano  </description>
+      <content>&lt;p&gt;Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.&lt;/p&gt;
+&lt;p&gt;Projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NanoBlast &lt;a href=&#34;https://game.neutralgood.dev&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/nanoblast-webserver&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Swap &lt;a href=&#34;https://theswap.vercel.com&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/swap&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;accept-banano client &lt;a href=&#34;https://github.com/tigwyk/accept-banano-client&#34;&gt;github&lt;/a&gt; server &lt;a href=&#34;https://github.com/tigwyk/accept-banano&#34;&gt;github&lt;/a&gt; forked from &lt;a href=&#34;https://accept-nano.com/&#34;&gt;accept-nano&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Test Post, Please Ignore</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sat, 24 Apr 2021 22:33:08 -0700</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Well, this is sure interesting. What a pretty website template.
+I was reading through some smart contract exploits and noticed the author of the blog had used a really nice theme. The simplicity and colour-selection drew me in, here I am making use of the theme already. Let&amp;rsquo;s hope I can give it a good life.</description>
+      <content>&lt;p&gt;Well, this is sure interesting. What a pretty website template.&lt;/p&gt;
+&lt;p&gt;I was reading through some &lt;a href=&#34;https://cryptot3ddybear.gitlab.io/blog/posts/scam-explained-bsc-stealthy-lp-block/&#34;&gt;smart contract exploits&lt;/a&gt; and noticed the author of &lt;a href=&#34;https://cryptot3ddybear.gitlab.io/blog/&#34;&gt;the blog&lt;/a&gt; had used a really nice &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-terminal/&#34;&gt;theme&lt;/a&gt;. The simplicity and colour-selection drew me in, here I am making use of the theme already. Let&amp;rsquo;s hope I can give it a good life.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

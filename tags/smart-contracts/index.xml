@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smart contracts on Code Blog - Tigwyk</title>
+    <link>/tags/smart-contracts/</link>
+    <description>Recent content in smart contracts on Code Blog - Tigwyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 22:33:08 -0700</lastBuildDate><atom:link href="/tags/smart-contracts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post, Please Ignore</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sat, 24 Apr 2021 22:33:08 -0700</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Well, this is sure interesting. What a pretty website template.
+I was reading through some smart contract exploits and noticed the author of the blog had used a really nice theme. The simplicity and colour-selection drew me in, here I am making use of the theme already. Let&amp;rsquo;s hope I can give it a good life.</description>
+      <content>&lt;p&gt;Well, this is sure interesting. What a pretty website template.&lt;/p&gt;
+&lt;p&gt;I was reading through some &lt;a href=&#34;https://cryptot3ddybear.gitlab.io/blog/posts/scam-explained-bsc-stealthy-lp-block/&#34;&gt;smart contract exploits&lt;/a&gt; and noticed the author of &lt;a href=&#34;https://cryptot3ddybear.gitlab.io/blog/&#34;&gt;the blog&lt;/a&gt; had used a really nice &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-terminal/&#34;&gt;theme&lt;/a&gt;. The simplicity and colour-selection drew me in, here I am making use of the theme already. Let&amp;rsquo;s hope I can give it a good life.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
