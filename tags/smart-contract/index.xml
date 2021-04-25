@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smart contract on Code Blog - Tigwyk</title>
+    <link>/tags/smart-contract/</link>
+    <description>Recent content in smart contract on Code Blog - Tigwyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tigwyk © 2021</copyright>
+    <lastBuildDate>Sat, 24 Apr 2021 23:18:25 -0700</lastBuildDate><atom:link href="/tags/smart-contract/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Attempt at a Basic Token Smart Contract</title>
+      <link>/posts/first-attempt-basic-token/</link>
+      <pubDate>Sat, 24 Apr 2021 23:18:25 -0700</pubDate>
+      
+      <guid>/posts/first-attempt-basic-token/</guid>
+      <description>Intro While trying to find an entry point into the study of smart contracts in 2021, I found that the basic ERC20/BEP20 token contract was probably the easiest to understand while still being mildly complex.
+Prerequisites This post assumes you already know how to setup your solidity development environment. I&amp;rsquo;m using Ubuntu via WSL2, and VS Code to edit.
+Before we begin you&amp;rsquo;ll need to install the openzeppelin package since it includes the template contracts we want to invoke.</description>
+      <content>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;While trying to find an entry point into the study of smart contracts in 2021, I found that the basic &lt;a href=&#34;https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20&#34;&gt;ERC20/BEP20 token contract&lt;/a&gt; was probably the easiest to understand while still being mildly complex.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;This post assumes you already know how to setup your solidity development environment. I&amp;rsquo;m using Ubuntu via WSL2, and VS Code to edit.&lt;/p&gt;
+&lt;p&gt;Before we begin you&amp;rsquo;ll need to install the &lt;a href=&#34;https://www.npmjs.com/package/@openzeppelin/contracts&#34;&gt;openzeppelin package&lt;/a&gt; since it includes the template contracts we want to invoke. Change into your project&amp;rsquo;s directory and type:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;$ npm install @openzeppelin/contracts&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;creating-our-token&#34;&gt;Creating our token&lt;/h2&gt;
+&lt;p&gt;Next, we&amp;rsquo;ll create a Token.sol file to house the smart contract for our ERC20 token (or BEP20 if you&amp;rsquo;re working on the Binance Smart Chain).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Token.sol&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pragma solidity ^0.8.0;
+
+import &amp;quot;@openzeppelin/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol&amp;quot;;
+
+contract TestToken is ERC20PresetMinterPauser {
+    constructor(uint256 initialSupply) ERC20PresetMinterPauser(&amp;quot;Test Token&amp;quot;, &amp;quot;TEST&amp;quot;) {
+        mint(msg.sender, initialSupply);
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This particular contract that we&amp;rsquo;re importing is the Preset for a mintable/pausable ERC20-compliant token. Here, we&amp;rsquo;re customizing the imported contract by naming it Test Token, with a ticker of TEST.&lt;/p&gt;
+&lt;p&gt;Now you can run the included ERC20PresetMinterPauser tests against our contract, and finally (if the tests pass), we can deploy it. I highly recommend deploying it to a local development network such as ganache or hardhat first so you can play around without wasting any money on gas fees. If you want to deploy the contract using Remix you&amp;rsquo;ll need to flatten it so that the .sol file includes all the sub-contracts that @openzeppelin uses.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Once your contract&amp;rsquo;s deployed you have a fully working ERC20-compliant token that you can interact with on the blockchain, operating completely under the control of your wallet used to deploy it. You can mint tokens, burn tokens, pause operations, and send tokens around using metamask.&lt;/p&gt;
+&lt;p&gt;Visit your smart contract&amp;rsquo;s address on Etherscan or BSCScan in order to verify it. Verifying your contract allows people to interact with the publicly exposed functions easily using forms on the website.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/tigwyk/flooftoken&#34;&gt;github repo&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Test Post, Please Ignore (or don&#39;t)</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sat, 24 Apr 2021 22:33:08 -0700</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Well, this sure is interesting. What a pretty website template.
+I was reading through some smart contract exploits and noticed the author of the blog had used a really nice theme. The simplicity and colour-selection drew me in, here I am making use of the theme already. Let&amp;rsquo;s hope I can give it a good life.</description>
+      <content>&lt;p&gt;Well, this sure is interesting. What a pretty website template.&lt;/p&gt;
+&lt;p&gt;I was reading through some &lt;a href=&#34;https://cryptot3ddybear.gitlab.io/blog/posts/scam-explained-bsc-stealthy-lp-block/&#34;&gt;smart contract exploits&lt;/a&gt; and noticed the author of &lt;a href=&#34;https://cryptot3ddybear.gitlab.io/blog/&#34;&gt;the blog&lt;/a&gt; had used a really nice &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-terminal/&#34;&gt;theme&lt;/a&gt;. The simplicity and colour-selection drew me in, here I am making use of the theme already. Let&amp;rsquo;s hope I can give it a good life.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
