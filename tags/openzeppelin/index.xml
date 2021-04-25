@@ -40,6 +40,7 @@ contract TestToken is ERC20PresetMinterPauser {
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;Once your contract&amp;rsquo;s deployed you have a fully working ERC20-compliant token that you can interact with on the blockchain, operating completely under the control of your wallet used to deploy it. You can mint tokens, burn tokens, pause operations, and send tokens around using metamask.&lt;/p&gt;
 &lt;p&gt;Visit your smart contract&amp;rsquo;s address on Etherscan or BSCScan in order to verify it. Verifying your contract allows people to interact with the publicly exposed functions easily using forms on the website.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/smartcontract_bscscan.png&#34; alt=&#34;screenshot of a smart contract BSCScan&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/tigwyk/flooftoken&#34;&gt;github repo&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
