@@ -177,7 +177,9 @@ contract TestToken is ERC20PresetMinterPauser {
     }
 }
 </code></pre><p>This particular contract that we&rsquo;re importing is the Preset for a mintable/pausable ERC20-compliant token. Here, we&rsquo;re customizing the imported contract by naming it Test Token, with a ticker of TEST.</p>
-<p>Now you can run the included ERC20PresetMinterPauser tests against our contract, and finally (if the tests pass), we can deploy it. I highly recommend deploying it to a local development network such as ganache or hardhat first so you can play around without wasting any money on gas fees. If you want to deploy the contract using Remix you&rsquo;ll need to flatten it so that the .sol file includes all the sub-contracts that @openzeppelin uses.</p>
+<p>Now you can run the included ERC20PresetMinterPauser tests against our contract, and finally (if the tests pass), we can deploy it</p>
+<p><img src="/img/contract_tests.png" alt="Screenshot of Hardhat tests against a smart contract"></p>
+<p>I highly recommend deploying it to a local development network such as ganache or hardhat first so you can play around without wasting any money on gas fees. If you want to deploy the contract using Remix you&rsquo;ll need to flatten it so that the .sol file includes all the sub-contracts that @openzeppelin uses.</p>
 <h2 id="conclusion">Conclusion<a href="#conclusion" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>Once your contract&rsquo;s deployed you have a fully working ERC20-compliant token that you can interact with on the blockchain, operating completely under the control of your wallet used to deploy it. You can mint tokens, burn tokens, pause operations, and send tokens around using metamask.</p>
 <p>Visit your smart contract&rsquo;s address on Etherscan or BSCScan in order to verify it. Verifying your contract allows people to interact with the publicly exposed functions easily using forms on the website.</p>
