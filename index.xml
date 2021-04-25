@@ -6,6 +6,7 @@
     <description>Recent content on Code Blog - Tigwyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Tigwyk © 2021</copyright>
     <lastBuildDate>Sat, 24 Apr 2021 23:18:25 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Attempt at a Basic Token Smart Contract</title>
@@ -51,14 +52,22 @@ contract TestToken is ERC20PresetMinterPauser {
       <guid>/about/</guid>
       <description>Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.
 Projects:
- NanoBlast demo github The Swap demo github accept-banano client github server github forked from accept-nano Floofyswap demo github  </description>
+ NanoBlast demo github   The Swap demo github accept-banano client github server github forked from accept-nano   Floofyswap demo github FloofToken demo github  </description>
       <content>&lt;p&gt;Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.&lt;/p&gt;
 &lt;p&gt;Projects:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/nano_small.png&#34; alt=&#34;nano&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;NanoBlast &lt;a href=&#34;https://game.neutralgood.dev&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/nanoblast-webserver&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/img/banano-mark.png&#34; alt=&#34;banano&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;The Swap &lt;a href=&#34;https://theswap.vercel.com&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/swap&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;accept-banano client &lt;a href=&#34;https://github.com/tigwyk/accept-banano-client&#34;&gt;github&lt;/a&gt; server &lt;a href=&#34;https://github.com/tigwyk/accept-banano&#34;&gt;github&lt;/a&gt; forked from &lt;a href=&#34;https://accept-nano.com/&#34;&gt;accept-nano&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/img/purple_kitten_right.png&#34; alt=&#34;floofy kitten&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Floofyswap &lt;a href=&#34;https://floofyswap.finance&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/search?q=user%3Atigwyk+floofy+fork%3Aonly&amp;amp;type=Repositories&amp;amp;ref=advsearch&amp;amp;l=&amp;amp;l=&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;FloofToken &lt;a href=&#34;https://testnet.bscscan.com/token/0x249c026ca1432d78bf96dae2d4d012243f525414&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/flooftoken&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>

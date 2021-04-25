@@ -6,6 +6,7 @@
     <description>Recent content in openzeppelin on Code Blog - Tigwyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Tigwyk © 2021</copyright>
     <lastBuildDate>Sat, 24 Apr 2021 23:18:25 -0700</lastBuildDate><atom:link href="/tags/openzeppelin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Attempt at a Basic Token Smart Contract</title>
