@@ -87,7 +87,8 @@ contract TestToken is ERC20PresetMinterPauser {
       <description>Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.
 Projects:
  NanoBlast demo github   The Swap demo github screenshots accept-banano client github server github forked from accept-nano   Floofyswap demo github FloofToken demo github  </description>
-      <content>&lt;p&gt;Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.&lt;/p&gt;
+      <content>&lt;p&gt;&lt;img src=&#34;/img/tigwyk_photo.jpg&#34; alt=&#34;photo of Tigwyk&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.&lt;/p&gt;
 &lt;p&gt;Projects:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/nano_small.png&#34; alt=&#34;nano&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
