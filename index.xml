@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tigwyk © 2021</copyright>
-    <lastBuildDate>Sun, 25 Apr 2021 11:30:21 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Apr 2021 08:00:00 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Public Banano Nodes</title>
+      <link>/posts/public-banano-nodes/</link>
+      <pubDate>Mon, 26 Apr 2021 08:00:00 -0700</pubDate>
+      
+      <guid>/posts/public-banano-nodes/</guid>
+      <description>Something I noticed recently while hanging out in on some Banano-related discord servers was that there didn&amp;rsquo;t appear to be a reliable list of the public Banano nodes. There were several requests from developers looking to connect to a node, so I had an idea. I forked SomeNano&amp;rsquo;s Nano Public Node site, and with a few minor changes&amp;hellip; I created a Banano version!
+Introducing&amp;hellip; public.banano.live!
+Link: https://public.banano.live</description>
+      <content>&lt;p&gt;Something I noticed recently while hanging out in on some Banano-related discord servers was that there didn&amp;rsquo;t appear to be a reliable list of the public Banano nodes. There were several requests from developers looking to connect to a node, so I had an idea. I forked &lt;a href=&#34;https://github.com/somenano/publicnodes.somenano.com&#34;&gt;SomeNano&amp;rsquo;s Nano Public Node site&lt;/a&gt;, and with a few minor changes&amp;hellip; I created a &lt;a href=&#34;https://github.com/tigwyk/public-banano-nodes&#34;&gt;Banano version&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introducing&amp;hellip; public.banano.live!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/screenshot_public_banano_nodes.png&#34; alt=&#34;screenshot of the public Banano nodes site&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://public.banano.live&#34;&gt;https://public.banano.live&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Daily Rundown 04/25/2021</title>
       <link>/posts/daily-rundown-04252021/</link>
