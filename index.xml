@@ -87,7 +87,7 @@ contract TestToken is ERC20PresetMinterPauser {
       <guid>/about/</guid>
       <description>Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.
 Projects:
- NanoBlast demo github   The Swap demo github screenshots accept-banano client github server github forked from accept-nano   Floofyswap demo github FloofToken demo github  </description>
+ NanoBlast demo github   The Swap demo github screenshots accept-banano client github server github forked from accept-nano Public Banano Node List demo github   Floofyswap demo github FloofToken demo github  </description>
       <content>&lt;p&gt;&lt;img src=&#34;/img/tigwyk_photo.jpg&#34; alt=&#34;photo of Tigwyk&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hello, I&amp;rsquo;m Tigwyk. I&amp;rsquo;m a systems engineer at my day job, often found doing devops. For fun I enjoy coding various hobby projects, learning new programming languages, and generally trying to solve problems that I find interesting.&lt;/p&gt;
 &lt;p&gt;Projects:&lt;/p&gt;
@@ -99,6 +99,7 @@ Projects:
 &lt;ul&gt;
 &lt;li&gt;The Swap &lt;a href=&#34;https://theswap.vercel.app/&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/swap&#34;&gt;github&lt;/a&gt; &lt;a href=&#34;https://imgur.com/gallery/uxxdDwY&#34;&gt;screenshots&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;accept-banano client &lt;a href=&#34;https://github.com/tigwyk/accept-banano-client&#34;&gt;github&lt;/a&gt; server &lt;a href=&#34;https://github.com/tigwyk/accept-banano&#34;&gt;github&lt;/a&gt; forked from &lt;a href=&#34;https://accept-nano.com/&#34;&gt;accept-nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Public Banano Node List &lt;a href=&#34;https://public.banano.live/&#34;&gt;demo&lt;/a&gt; &lt;a href=&#34;https://github.com/tigwyk/public-banano-nodes&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;/img/purple_kitten_right.png&#34; alt=&#34;floofy kitten&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
