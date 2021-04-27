@@ -7,7 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tigwyk © 2021</copyright>
-    <lastBuildDate>Mon, 26 Apr 2021 08:00:00 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Apr 2021 16:16:23 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Rundown 04/26/2021</title>
+      <link>/posts/daily-rundown-04262021/</link>
+      <pubDate>Mon, 26 Apr 2021 16:16:23 -0700</pubDate>
+      
+      <guid>/posts/daily-rundown-04262021/</guid>
+      <description>Photo from Pixabay
+I don&amp;rsquo;t know about you but I made some great progress reading through yesterday&amp;rsquo;s giant list of links. I promise that today&amp;rsquo;s won&amp;rsquo;t be nearly as dense. It might even be a little fun.
+ Deploying your own Cryptocurrency network with Docker and Nano NanoAddr.io - Nano Vanity Address Generator Ethereum and Cross-chain atomic swaps Build your own Ethereum token in less than an hour Methods to wrap ERC721 tokens WebAssembly and React NanoPOW-RS NodeJS Wrapper Create your own cryptocurrency TokenMint Create a cryptocurrency token for free in under 10 minutes 0x Launch Kit Using Hardhat with Binance Smart Chain AAVE Flash Loan Docs  </description>
+      <content>&lt;p&gt;Photo from &lt;a href=&#34;https://pixabay.com/photos/sunset-river-trees-panorama-sun-5903426/&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t know about you but I made some great progress reading through yesterday&amp;rsquo;s giant list of links. I promise that today&amp;rsquo;s won&amp;rsquo;t be nearly as dense. It might even be a little fun.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/&#34;&gt;Deploying your own Cryptocurrency network with Docker and Nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nanoaddr.io/&#34;&gt;NanoAddr.io - Nano Vanity Address Generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dontpanicburns.medium.com/ethereum-cross-chain-atomic-swaps-5a91adca4f43&#34;&gt;Ethereum and Cross-chain atomic swaps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codementor.io/@vahiwe/building-your-own-ethereum-based-ecr20-token-in-less-than-an-hour-16f44bq67i&#34;&gt;Build your own Ethereum token in less than an hour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/ethdev/comments/c64sok/methods_to_wrap_erc721_tokens/&#34;&gt;Methods to wrap ERC721 tokens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@marvinirwin/webassembly-react-and-create-react-app-8b73346c9b65&#34;&gt;WebAssembly and React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/nanopow-rs-node&#34;&gt;NanoPOW-RS NodeJS Wrapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mlsdev.com/blog/how-to-create-your-own-cryptocurrency&#34;&gt;Create your own cryptocurrency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tokenmint.io/&#34;&gt;TokenMint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@business.wmacintosh/how-to-create-a-cryptocurrency-token-for-free-in-under-10-minutes-e8a05d7e31dd&#34;&gt;Create a cryptocurrency token for free in under 10 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/0xProject/0x-launch-kit&#34;&gt;0x Launch Kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.binance.org/smart-chain/developer/deploy/hardhat.html&#34;&gt;Using Hardhat with Binance Smart Chain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aave.com/developers/guides/flash-loans&#34;&gt;AAVE Flash Loan Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
     <item>
       <title>Public Banano Nodes</title>
       <link>/posts/public-banano-nodes/</link>
