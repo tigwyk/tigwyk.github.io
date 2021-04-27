@@ -7,21 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tigwyk © 2021</copyright>
-    <lastBuildDate>Mon, 26 Apr 2021 08:00:00 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>banano</title>
-      <link>/tags/banano/</link>
-      <pubDate>Mon, 26 Apr 2021 08:00:00 -0700</pubDate>
-      
-      <guid>/tags/banano/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Apr 2021 16:16:23 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>crypto</title>
       <link>/tags/crypto/</link>
-      <pubDate>Mon, 26 Apr 2021 08:00:00 -0700</pubDate>
+      <pubDate>Mon, 26 Apr 2021 16:16:23 -0700</pubDate>
       
       <guid>/tags/crypto/</guid>
       <description></description>
@@ -31,7 +21,7 @@
     <item>
       <title>daily</title>
       <link>/tags/daily/</link>
-      <pubDate>Sun, 25 Apr 2021 11:30:21 -0700</pubDate>
+      <pubDate>Mon, 26 Apr 2021 16:16:23 -0700</pubDate>
       
       <guid>/tags/daily/</guid>
       <description></description>
@@ -41,7 +31,7 @@
     <item>
       <title>smart contract</title>
       <link>/tags/smart-contract/</link>
-      <pubDate>Sun, 25 Apr 2021 11:30:21 -0700</pubDate>
+      <pubDate>Mon, 26 Apr 2021 16:16:23 -0700</pubDate>
       
       <guid>/tags/smart-contract/</guid>
       <description></description>
@@ -51,9 +41,19 @@
     <item>
       <title>solidity</title>
       <link>/tags/solidity/</link>
-      <pubDate>Sun, 25 Apr 2021 11:30:21 -0700</pubDate>
+      <pubDate>Mon, 26 Apr 2021 16:16:23 -0700</pubDate>
       
       <guid>/tags/solidity/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>banano</title>
+      <link>/tags/banano/</link>
+      <pubDate>Mon, 26 Apr 2021 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/banano/</guid>
       <description></description>
       <content></content>
     </item>
