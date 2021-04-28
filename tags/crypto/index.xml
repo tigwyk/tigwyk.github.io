@@ -7,7 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tigwyk © 2021</copyright>
-    <lastBuildDate>Mon, 26 Apr 2021 16:16:23 -0700</lastBuildDate><atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 18:22:49 -0700</lastBuildDate><atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Rundown 04/27/2021</title>
+      <link>/posts/daily-rundown-04272021/</link>
+      <pubDate>Tue, 27 Apr 2021 18:22:49 -0700</pubDate>
+      
+      <guid>/posts/daily-rundown-04272021/</guid>
+      <description>Okay here we go, nearing the end of the backlog so hopefully these daily posts will wind up soon.
+ NANO WebGL PoW Demo Nano DPoW Banano BoomPoW Nginx Config Generator by DigitalOcean Nano RPC API Proxy GoNano payment library and API Nano tools on Github by BitDesert  </description>
+      <content>&lt;p&gt;Okay here we go, nearing the end of the backlog so hopefully these daily posts will wind up soon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://numtel.github.io/nano-webgl-pow/&#34;&gt;NANO WebGL PoW Demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/guilhermelawless/nano-dpow/blob/master/service/README.md&#34;&gt;Nano DPoW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/nanocurrency/comments/d9lftl/boompow_another_distributed_proof_of_work_service/&#34;&gt;Banano BoomPoW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nginxconfig.io&#34;&gt;Nginx Config Generator by DigitalOcean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Joohansson/NanoRPCProxy&#34;&gt;Nano RPC API Proxy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gonano.dev/&#34;&gt;GoNano payment library and API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BitDesert&#34;&gt;Nano tools on Github by BitDesert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
     <item>
       <title>Daily Rundown 04/26/2021</title>
       <link>/posts/daily-rundown-04262021/</link>
