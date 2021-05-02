@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paytest on Code Blog - Tigwyk</title>
+    <link>/tags/paytest/</link>
+    <description>Recent content in paytest on Code Blog - Tigwyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tigwyk © 2021</copyright>
+    <lastBuildDate>Sun, 02 May 2021 13:11:20 -0700</lastBuildDate><atom:link href="/tags/paytest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Launching the Banano Pay-Test</title>
+      <link>/posts/banano-paytest-launch/</link>
+      <pubDate>Sun, 02 May 2021 13:11:20 -0700</pubDate>
+      
+      <guid>/posts/banano-paytest-launch/</guid>
+      <description>When I forked the accept-nano libraries I noticed they had created a very simple example site that leverages unpkg.com to offer a static one-page payment solution. Since I forked the rest of the library I decided I might as well host the example site somewhere so we could show off the speed of banano, and this little idea was born!
+Behold, paytest.banano.live! A one-stop shop for nothing! You can buy absolutely nothing for the low, low price of 0.</description>
+      <content>&lt;p&gt;When I forked the &lt;a href=&#34;https://accept-nano.com&#34;&gt;accept-nano&lt;/a&gt; libraries I noticed they had created a very simple example site that leverages unpkg.com to offer a static one-page payment solution. Since I forked the rest of the library I decided I might as well host the example site somewhere so we could show off the speed of banano, and this &lt;a href=&#34;https://github.com/tigwyk/accept-banano-client/blob/master/example/index.html&#34;&gt;little idea was born!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Behold, &lt;a href=&#34;https://paytest.banano.live&#34;&gt;&lt;strong&gt;paytest.banano.live&lt;/strong&gt;&lt;/a&gt;! A one-stop shop for nothing! You can buy absolutely nothing for the low, low price of 0.01 &lt;a href=&#34;https://banano.cc&#34;&gt;banano&lt;/a&gt;. &lt;strong&gt;It&amp;rsquo;s quick, it&amp;rsquo;s feeless, it&amp;rsquo;s practically free!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enter the desired amount of banano you&amp;rsquo;d like to donate to the cause, click on &amp;ldquo;Start&amp;rdquo; and you&amp;rsquo;ll receive a very simple payment prompt including a QR code. Scan the QR code (or copy and paste the address and amount), send, and you&amp;rsquo;ll see how quickly the site accepts your payment.&lt;/p&gt;
+&lt;p&gt;N.B. You are spending &lt;em&gt;real&lt;/em&gt; banano during this transaction, it will be used for hosting fees, development, and tips on the lovely &lt;a href=&#34;https://chat.banano.cc&#34;&gt;Banano discord.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

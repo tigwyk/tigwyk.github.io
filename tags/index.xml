@@ -7,13 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tigwyk © 2021</copyright>
-    <lastBuildDate>Wed, 28 Apr 2021 19:31:06 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 13:11:20 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>banano</title>
+      <link>/tags/banano/</link>
+      <pubDate>Sun, 02 May 2021 13:11:20 -0700</pubDate>
+      
+      <guid>/tags/banano/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>crypto</title>
       <link>/tags/crypto/</link>
-      <pubDate>Wed, 28 Apr 2021 19:31:06 -0700</pubDate>
+      <pubDate>Sun, 02 May 2021 13:11:20 -0700</pubDate>
       
       <guid>/tags/crypto/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>payment</title>
+      <link>/tags/payment/</link>
+      <pubDate>Sun, 02 May 2021 13:11:20 -0700</pubDate>
+      
+      <guid>/tags/payment/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>paytest</title>
+      <link>/tags/paytest/</link>
+      <pubDate>Sun, 02 May 2021 13:11:20 -0700</pubDate>
+      
+      <guid>/tags/paytest/</guid>
       <description></description>
       <content></content>
     </item>
@@ -24,16 +54,6 @@
       <pubDate>Wed, 28 Apr 2021 19:31:06 -0700</pubDate>
       
       <guid>/tags/daily/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>banano</title>
-      <link>/tags/banano/</link>
-      <pubDate>Tue, 27 Apr 2021 18:22:49 -0700</pubDate>
-      
-      <guid>/tags/banano/</guid>
       <description></description>
       <content></content>
     </item>

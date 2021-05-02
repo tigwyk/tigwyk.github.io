@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/banano/</loc>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2021-04-28T19:31:06-07:00</lastmod>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
   </url><url>
     <loc>/tags/crypto/</loc>
-    <lastmod>2021-04-28T19:31:06-07:00</lastmod>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
+  </url><url>
+    <loc>/posts/banano-paytest-launch/</loc>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
+  </url><url>
+    <loc>/tags/payment/</loc>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
+  </url><url>
+    <loc>/tags/paytest/</loc>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-02T13:11:20-07:00</lastmod>
   </url><url>
     <loc>/tags/daily/</loc>
     <lastmod>2021-04-28T19:31:06-07:00</lastmod>
   </url><url>
     <loc>/posts/daily-rundown-04282021/</loc>
     <lastmod>2021-04-28T19:31:06-07:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-04-28T19:31:06-07:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-28T19:31:06-07:00</lastmod>
-  </url><url>
-    <loc>/tags/banano/</loc>
-    <lastmod>2021-04-27T18:22:49-07:00</lastmod>
   </url><url>
     <loc>/posts/daily-rundown-04272021/</loc>
     <lastmod>2021-04-27T18:22:49-07:00</lastmod>
