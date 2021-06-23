@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tigwyk © 2021</copyright>
-    <lastBuildDate>Sun, 02 May 2021 13:11:20 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 19:49:08 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wrapped Banano Launch</title>
+      <link>/posts/wrapped-banano-launch/</link>
+      <pubDate>Tue, 22 Jun 2021 19:49:08 -0700</pubDate>
+      
+      <guid>/posts/wrapped-banano-launch/</guid>
+      <description>If you&amp;rsquo;ve been following Banano at all then you may have heard of something called &amp;ldquo;Wrapped Banano.&amp;rdquo; If you haven&amp;rsquo;t been following Banano then I recommend you take a look at the community and their yellow paper to learn more.
+  Wrapped Banano is a token on the Binance Smart Chain backed 1:1 by regular Banano. You first deposit Banano to a custodial wallet and the balance is attributed to you on the Wrapped Banano BSC bridge, you wrap the Banano by signing a transaction on the Binance Smart Chain with your metamask wallet.</description>
+      <content>&lt;p&gt;If you&amp;rsquo;ve been following &lt;a href=&#34;https://banano.cc&#34;&gt;Banano&lt;/a&gt; at all then you may have heard of something called &amp;ldquo;Wrapped Banano.&amp;rdquo; If you haven&amp;rsquo;t been following Banano then I recommend you take a look at the &lt;a href=&#34;https://chat.banano.cc&#34;&gt;community&lt;/a&gt; and their &lt;a href=&#34;https://banano.cc/yellowpaper&#34;&gt;yellow paper&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Fwi931gCO48&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Wrapped Banano is a token on the Binance Smart Chain backed 1:1 by regular Banano. You first deposit Banano to a custodial wallet and the balance is attributed to you on the &lt;a href=&#34;https://bsc.banano.cc&#34;&gt;Wrapped Banano BSC bridge&lt;/a&gt;, you wrap the Banano by signing a transaction on the Binance Smart Chain with your metamask wallet. The end result is wBAN tokens in your metamask wallet, the same number of tokens as Banano you deposited in the beginning.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Launching the Banano Pay-Test</title>
       <link>/posts/banano-paytest-launch/</link>
